@@ -49,7 +49,11 @@ function generatePassword() {
     if (!number && !character && !uppercase && !lowercase) {
         critera = alert("You must select at least one critera.");
     }
-
+    var password = "";
+    for (let i = 0; i < length; i++) {
+        password += passwordText[Math.floor(Math.random() * passwordText.length)]
+    }
+    return password;
 
 };
 
