@@ -39,7 +39,7 @@ Fourth Confirm: Would you like to include special characters:
 
 Validating to ensure user chose at least one of the required criteria. Alerting them if none were selected:
 
-![Alert3](./assets/imagesAlert3.PNG)
+![Alert3](./assets/images/Alert3.PNG)
 
 Successful password Generated:
 
