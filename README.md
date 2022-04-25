@@ -45,3 +45,6 @@ Successful password Generated:
 
 ![Success](./assets/images/PasswordCreated.PNG)
 
+URL: https://jmak21203.github.io/PasswordGenerator/
+
+
