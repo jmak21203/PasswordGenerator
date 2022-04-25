@@ -13,3 +13,35 @@ Main Page User Sees at Load:
 
 ![Main Page](./assets/images/MainPage.PNG)
 
+Alert After Pushing Generate Password button confirming desired length of password
+
+![Alert1](./assets/images/Alert1.PNG)
+
+Alert informing user they must select length between 8-128 if they fail to.
+
+![Alert2](./assets/images/Alert2.PNG)
+
+First Confirm: Would you like to use lower case letters:
+
+![Confirm1](./assets/images/Confirm1.PNG)
+
+Second Confirm: Would you like to include upper case letters:
+
+![Confirm2](./assets/images/Confirm2.PNG)
+
+Third Confirm: Would you like to include numbers:
+
+![Confirm3](./assets/images/Confirm3.PNG)
+
+Fourth Confirm: Would you like to include special characters:
+
+![Confirm4](./assets/images/Confirm4.PNG)
+
+Validating to ensure user chose at least one of the required criteria. Alerting them if none were selected:
+
+![Alert3](./assets/imagesAlert3.PNG)
+
+Successful password Generated:
+
+![Success](./assets/images/PasswordCreated.PNG)
+
