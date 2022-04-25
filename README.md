@@ -10,7 +10,6 @@ Some screen shots of the program, highlightning the word and code put into it.
 
 Main Page User Sees at Load:
 
-```md
-![alt text](assets/images/MainPage.PNG)
-```
+
+![Main Page](./assets/images/MainPage.PNG)
 
